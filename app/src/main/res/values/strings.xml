@@ -1,3 +1,38 @@
 <resources>
     <string name="app_name">Helpdesk</string>
+    <string name="title">Title</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="SignIn">Sign In</string>
+    <string name="ForgotPassword">Forgot Password</string>
+    <string name="Finish">Finish</string>
+    <string name="ForgotPasswordInfo">Please enter the email address which you want to reset the password.</string>
+    <string name="ConfirmPassword">Confirm Password</string>
+    <string name="LastName">Last Name</string>
+    <string name="FirstName">First Name</string>
+    <string name="backIconDescription">Back Icon</string>
+    <string name="CreateAccount">Create Account</string>
+    <string name="ResetPassword">Reset Password</string>
+    <string name="OK">OK</string>
+    <string name="Required">Required</string>
+    <string name="MinimumChars">Required minimum 6 chars</string>
+    <string name="InvalidEmail">Invalid Email</string>
+    <string name="InvalidPassword">Invalid Password</string>
+    <string name="EmailExist">Email exist in the system</string>
+    <string name="CompleteCreateAccount">Successfully registered, Please verify your email with link sent to your email.</string>
+    <string name="UseOfSpaces">Do not use spaces</string>
+    <string name="ErrorMSG">Something went wrong please try again in a few minutes.</string>
+    <string name="Error">Error</string>
+    <string name="CheckEmailVerify">This account not verify yet, please check the link sent to your email to verify this account.</string>
+    <string name="EmailNotExist">Email not exist in the system</string>
+    <string name="WrongPassword">Wrong Password</string>
+    <string name="ResetLink" translatable="true">Reset Link has been send to your Email.</string>
+    <string name="SignOut">Sign Out</string>
+    <string name="AreYouSure">Are you sure?</string>
+    <string name="Yes">Yes</string>
+    <string name="No">No</string>
+    <string-array name="Main">
+        <item>@string/SignIn</item>
+        <item>@string/CreateAccount</item>
+    </string-array>
 </resources>
